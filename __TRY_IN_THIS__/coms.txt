@@ -1,0 +1,54 @@
+fényafalon=print
+bölcsesség=print
+kinyitAjtó=import
+beenged=from
+cisco=os
+packettracer=system
+
+haha=if
+haha'nt=else
+hahaIsNem=elif
+
+OWO nyit komment=#
+UWU nyit komment="""
+UWU comment záring="""
+
+irniFuzetbe=while
+nyit=for
+nézzKörül=range
+töröl=remove
+
+dolgozat = input
+kerekség = int
+lebegniFogsz=float
+straight=str
+formálódás=f
+
+hihiAzLeszAz = True
+hohoNemAzLeszAz = False
+
+hozdÖssze=+
+válaszdSzét=-
+jóóóSokszor=*
+kabbe=/
+maradsz=%
+hatvankodik=**
+
+orr=or
+ilyenFiatalon=and
+nemiEgyenlőség==
+vanNemiEgyenlőségKérdőjel===
+húúDeNagy=>
+húúDeNagyVagyMégsem=>=
+nemAMéretSzámít=<
+kicsiDeMégsem=<=
+nekemNagyobb=!=
+
+listaNyit=[
+listaZáradék=]
+buborék=.pop
+töröldKi=.remove
+brüsszeliGurulóDollárok=.append
+jóóHosszú=len
+függöny=def
+hozdVissza=return
