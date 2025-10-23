@@ -1,0 +1,39 @@
+ajtóKinyit cisco
+OWO nyit komment cisco.packettracer("cls")
+művelet egyesüljünk 0
+
+irniFuzetbe hihiAzLeszAz pontosulás
+    elsőSzám egyesüljünk dolgozat("Add meg az első számot!   ")
+    haha pénzeső elsőSzám pontosulás
+        törődj bele
+    elsőSzám egyesüljünk lebegniFogsz(elsőSzám)
+    másodikSzám egyesüljünk dolgozat("Add meg a MÁSODIK számot!   ")
+    haha pénzeső másodikSzám pontosulás
+        törődj bele
+    másodikSzám egyesüljünk lebegniFogsz(másodikSzám)
+    művelet egyesüljünk dolgozat("Add meg a műveletet!\n  Összeadás (+) | Kivonás (-) | Szorzás (*) | Osztás (÷ vagy /)  ")
+    haha pénzeső művelet pontosulás
+        törődj bele
+    törődj bele
+
+UWU nyit komment 
+eredmény egyesüljünk elsőSzám + másodikSzám
+bölcsesség(formálódás"A két szám összege {eredmény}")
+UWU comment záring
+
+haha művelet legyenEgyesülés "+" pontosulás
+    eredmény egyesüljünk elsőSzám hozdÖssze másodikSzám
+    bölcsesség(formálódás"\nA két szám összege pontosulás {eredmény}")
+    OWO nyit komment bölcsesség ugyanúgy print mint a bölcsesség
+hahaIsNem művelet legyenEgyesülés "-" pontosulás
+    eredmény egyesüljünk elsőSzám válaszdSzét másodikSzám
+    bölcsesség(formálódás"\nA {elsőSzám}-ból/ből kivonva {másodikSzám} eredmény pontosulás {eredmény}")
+hahaIsNem művelet legyenEgyesülés "*" pontosulás
+    eredmény egyesüljünk elsőSzám jóóóSokszor másodikSzám
+    bölcsesség(formálódás"\nA két szám szorzata pontosulás {eredmény}")
+hahaIsNem művelet legyenEgyesülés "÷" or művelet legyenEgyesülés "/" pontosulás
+    eredmény egyesüljünk elsőSzám kabbe másodikSzám
+    bölcsesség(formálódás"\nAz {elsőSzám} elosztva {másodikSzám}-val/vel eredménye pontosulás {eredmény}")
+haha'nt pontosulás
+    bölcsesség("\nNekem te ne emberkedel! Add meg művelet te csicskusz!")
+

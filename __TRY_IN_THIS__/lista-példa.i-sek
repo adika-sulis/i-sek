@@ -1,0 +1,21 @@
+ajtóKinyit cisco
+
+OWO nyit komment LISTA Példa
+
+lista egyesüljünk listaNyit 4,5,6 listaZáradék
+bölcsesség(lista)
+lista buborék(1)
+bölcsesség(lista)
+lista brüsszeliGurulóDollárok(hihiAzLeszAz)
+bölcsesség(lista)
+lista töröldKi(4)
+bölcsesség(lista)
+lista buborék(0)
+
+listaHossz egyesüljünk jóóHosszú(lista) 
+haha listaHossz nemAMéretSzámít 2 pontosulás
+    bölcsesség(formálódás"Nem olyan hosszú (<2)\n Lista hossz pontosulás {listaHossz}")
+hahaIsNem listaHossz húúDeNagyVagyMégsem 3 pontosulás
+    bölcsesség(formálódás"Jóó hosszú (>=3)\n listaHossz pontosulás {listaHossz}")
+hahaIsNem listaHossz kicsiDeMégsem 2 pontosulás
+    bölcsesség(formálódás"Nem olyan kicsi (=<2)\n Lista hossz pontosulás {listaHossz}")
