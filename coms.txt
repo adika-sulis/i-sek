@@ -1,4 +1,3 @@
-fényafalon=print
 bölcsesség=print
 ajtóKinyit=import
 beenged=from
