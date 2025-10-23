@@ -1,6 +1,6 @@
 fényafalon=print
 bölcsesség=print
-kinyitAjtó=import
+ajtóKinyit=import
 beenged=from
 cisco=os
 packettracer=system
@@ -18,14 +18,14 @@ nyit=for
 nézzKörül=range
 töröl=remove
 
-dolgozat = input
-kerekség = int
+dolgozat=input
+kerekség=int
 lebegniFogsz=float
 straight=str
 formálódás=f
 
-hihiAzLeszAz = True
-hohoNemAzLeszAz = False
+hihiAzLeszAz=True
+hohoNemAzLeszAz=False
 
 hozdÖssze=+
 válaszdSzét=-
@@ -35,14 +35,17 @@ maradsz=%
 hatvankodik=**
 
 orr=or
+pénzeső=not
 ilyenFiatalon=and
-nemiEgyenlőség==
-vanNemiEgyenlőségKérdőjel===
+egyesüljünk==
+legyenEgyesülés===
 húúDeNagy=>
 húúDeNagyVagyMégsem=>=
 nemAMéretSzámít=<
 kicsiDeMégsem=<=
 nekemNagyobb=!=
+pontosulás=:
+törődj bele=break
 
 listaNyit=[
 listaZáradék=]
