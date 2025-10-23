@@ -5,7 +5,6 @@ Az i-sek egy magyar kulcsszavakat használó forrásszintaxis, amely Python kód
 Kulcsszó-térkép (i-sek → Python)
 | i-sek kulcsszó | Python megfelelő |
 |---|---|
-| fényafalon | print |
 | bölcsesség | print |
 | ajtóKinyit | import |
 | beenged | from |
