@@ -36,8 +36,8 @@ Kulcsszó-térkép (i-sek → Python)
 | orr | or |
 | pénzeső | not |
 | ilyenFiatalon | and |
-| egyesüljünk | == |
-| legyenEgyesülés | === |
+| egyesüljünk | = |
+| legyenEgyesülés | == |
 | húúDeNagy | > |
 | húúDeNagyVagyMégsem | >= |
 | nemAMéretSzámít | < |
