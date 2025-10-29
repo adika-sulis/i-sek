@@ -38,10 +38,10 @@ pénzeső=not
 ilyenFiatalon=and
 egyesüljünk==
 legyenEgyesülés===
-húúDeNagy=>
-húúDeNagyVagyMégsem=>=
 nemAMéretSzámít=<
+húúDeNagy=>
 kicsiDeMégsem=<=
+húúDeNagyVagyMégsem=>=
 nekemNagyobb=!=
 pontosulás=:
 törődj bele=break
